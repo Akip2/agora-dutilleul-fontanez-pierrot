@@ -2,5 +2,5 @@
 
 # Membres :
 - Antoine FONTANEZ (Akip2) : Product owner
-- Killian RICHARDIN--DUTILLEUL
+- Killian RICHARDIN--DUTILLEUL (KillianRD)
 - Nathan PIERROT (Ratz123323)
