@@ -8,3 +8,7 @@ L’objectif est de construire une solution logicielle robuste et évolutive rep
 - Antoine FONTANEZ (Akip2) : Product owner
 - Killian RICHARDIN--DUTILLEUL (KillianRD)
 - Nathan PIERROT (Ratz123323)
+
+# Sources
+
+Dataset utilisé : https://www.kaggle.com/datasets/momanyc/museum-collection  
