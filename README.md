@@ -1,4 +1,4 @@
-# agora
+# Agora
 
 # Membres :
 - Antoine FONTANEZ (Akip2) : Product owner
